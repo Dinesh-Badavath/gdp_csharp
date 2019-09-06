@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDP_PROBLEM", "GDP_PROBLEM\GDP_PROBLEM.csproj", "{C03F7297-6B77-45D1-B1EB-59F4EEE9A473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestGDP", "XUnitTestGDP\XUnitTestGDP.csproj", "{FD209318-407C-4FA7-839A-BA837838E6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C03F7297-6B77-45D1-B1EB-59F4EEE9A473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03F7297-6B77-45D1-B1EB-59F4EEE9A473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03F7297-6B77-45D1-B1EB-59F4EEE9A473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03F7297-6B77-45D1-B1EB-59F4EEE9A473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD209318-407C-4FA7-839A-BA837838E6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD209318-407C-4FA7-839A-BA837838E6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD209318-407C-4FA7-839A-BA837838E6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD209318-407C-4FA7-839A-BA837838E6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DCCDA67-D9B8-4C3F-BE63-2F5B48AF77F5}
+	EndGlobalSection
+EndGlobal
